@@ -31,4 +31,13 @@ Lub przejdźmy do [Mojego Steama]!
 [Mojego Twitcha]: https://www.twitch.tv/vex0on  
 [Mojego Steama]: https://steamcommunity.com/id/Vex0on/  
 
+## Zdjęcia
+1. Aby dodać zdjęcie do dokumentu należy użyć 3 znaków.
+* Pierwszym z nich jest wykrzyknik ( ! ) 
+* Drugim z nich jest kwadratowy nawias []
+* Trzecim z nich jest nawias ()  
+np.
+
+![EvoPanda](https://imgur.com/nCBM3Cp)
+
 
