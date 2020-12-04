@@ -23,12 +23,16 @@ np. [Mój Fanpage](https://www.facebook.com/JacekVexonSosnowski)
 - W tym przypadku używamy jedynie nawiasów kwadratowych []- w których wpisujemy tkst, który ma się zmienić w link
 - Następnie wywołujemy link przez wpisanie po []: linkdostrony  
 np.  
+
 Przejdźmy do [Mojego Twitcha]!  
 
 Lub przejdźmy do [Mojego Steama]!  
 
 [Mojego Twitcha]: https://www.twitch.tv/vex0on  
 [Mojego Steama]: https://steamcommunity.com/id/Vex0on/  
+
+[Tutaj jest napisane Mojego Twitcha]: atutajwklejonylinkdoTwitcha
+[Tutaj jest napisane Mojego Steama]: atutajwklejonylinkdoSteama
 
 
 
