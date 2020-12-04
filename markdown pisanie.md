@@ -50,5 +50,20 @@ np.
 
 > "Tutaj jest ważny tekst"
 
+## Listy
+1. Są 2 typy list, ordered oraz unordered
+2. Listę unordered tworzymy używając gwiazdki (*)
+np. (Lista zakupów)
+* mleko
+* mąka
+* jajka
+* Chleb tostowy
+
+3. Listę ordered tworzymy używając zwykłej numeracji (1./2./3.)
+np. 
+4. Rozkręć
+5. Włóż baterie
+6. Złóż 
+7. Wciśnij przycisk włączenia
 
 
