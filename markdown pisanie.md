@@ -60,10 +60,17 @@ np. (Lista zakupów)
 * Chleb tostowy
 
 3. Listę ordered tworzymy używając zwykłej numeracji (1./2./3.)  
-np.  
+np.   
 4. Rozkręć
 5. Włóż baterie
 6. Złóż 
 7. Wciśnij przycisk włączenia
 
+## Sub-listy
+* coś
+ *sub-lista czegoś
+ *2 wers sub-listy
+* inne
+ * inna sub-lista
+ * 2 wers innej sub-listy
 
