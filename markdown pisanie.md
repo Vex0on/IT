@@ -45,7 +45,7 @@ np.
 
 ## Blockquote
 1. Zadaniem blockquote jest podkreślenie ważnego elementu w dokumencie.
-2. Aby użyć blockquote używamy (większy niż) (>)
+2. Aby użyć blockquote używamy (większy niż) (>)  
 np.
 
 > "Tutaj jest ważny tekst"
