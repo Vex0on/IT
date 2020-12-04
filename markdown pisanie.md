@@ -72,11 +72,11 @@ np.
 3. Drugi znak jest od wiersza tabeli (-)
 4. Trzeci znak jest od ułożenia tekstu w tabeli ( : ). 
 - Jeśli po obu stronach jest dwukropek to tekst jest wyśrodkowany
-- Jeśli dwukropek jest po jednej stronie to wtedy tekst będzie przy tej stronie tabeli  
+- Jeśli dwukropek jest po jednej stronie to wtedy tekst będzie wyrównany do tej strony
 np.  
 
 | Tabela        | Jest          | Kwota |
 | ------------- |:-------------:| -----:|
-| kolumna 3 jest| right-aligned | $1600 |
-| kolumna 2 jest| centered      |   $12 |
-| tu też jest   | nic nic       |    $1 |
+| kolumna 3 jest| wyr. do prawej| $1600 |
+| kolumna 2 jest| wyśrodkowana  |   $12 |
+| a tu nic nic  | nic nic       |    $1 |
