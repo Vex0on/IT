@@ -1,6 +1,6 @@
 **Pisanie w Markdownie**
 
-#Markdown – język znaczników przeznaczony do formatowania tekstu zaprojektowany przez Johna Grubera i Aarona Swartza.
+# Markdown – język znaczników przeznaczony do formatowania tekstu zaprojektowany przez Johna Grubera i Aarona Swartza.
 
 ## Formatowanie tekstu
 1. Przechylenie/Italic - używamy podkreślenia (_)  np _to_
