@@ -71,7 +71,7 @@ np.
 ## Tabele
 1. Do tworzenia tabeli używamy 3 znaków.
 2. Pierwszy znak jest od kolumn ( | )
-3. Drugi znak jest od wiersza tabeli (-)
+3. Drugi znak jest od oddzielenia górnego wiersza tabeli (-)
 4. Trzeci znak jest od ułożenia tekstu w tabeli ( : ). 
 - Jeśli po obu stronach jest dwukropek to tekst jest wyśrodkowany
 - Jeśli dwukropek jest po jednej stronie to wtedy tekst będzie wyrównany do tej strony
