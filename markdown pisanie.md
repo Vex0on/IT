@@ -34,10 +34,11 @@ Lub przejdźmy do [Mojego Steama]!
 ## Zdjęcia
 1. Aby dodać zdjęcie do dokumentu należy użyć 3 znaków.
 * Pierwszym z nich jest wykrzyknik ( ! ) 
-* Drugim z nich jest kwadratowy nawias []
-* Trzecim z nich jest nawias ()  
+* Drugim z nich jest kwadratowy nawias [] - tu wpisujemy nazwe swojego zdj
+* Trzecim z nich jest nawias () - tu wklejamy link do zdj
 np.
 
 ![EvoPanda](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT43jMxUjjInOzf0L59YyTT5hmCjwt02EuudA&usqp=CAU)
+
 
 
