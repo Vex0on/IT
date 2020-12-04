@@ -18,7 +18,7 @@
 * Drugim znakiem jest nawias () - w nim umieszczamy link do strony, na którą ma nas przekierować hiperłącze  
 np. [Mój Fanpage](https://www.facebook.com/JacekVexonSosnowski)  
 
-2. Aby stworzyć link referencyjny, który odnosi się do innej części w tym dokumencie 
+2. Aby stworzyć link referencyjny, który odnosi się do innej części w tym dokumencie.
 *W tym przypadku używamy jedynie nawiasów kwadratowych []- w których wpisujemy tkst, który ma się zmienić w link
 *Następnie wywołujemy link przez wpisanie po []: linkdostrony  
 np.  
