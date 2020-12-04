@@ -59,8 +59,8 @@ np. (Lista zakupów)
 * jajka
 * Chleb tostowy
 
-3. Listę ordered tworzymy używając zwykłej numeracji (1./2./3.)
-np. 
+3. Listę ordered tworzymy używając zwykłej numeracji (1./2./3.)  
+np.  
 4. Rozkręć
 5. Włóż baterie
 6. Złóż 
