@@ -70,9 +70,10 @@ np.
 
 # Lista zadań
 1. Do tworzenia list zadań używamy znaku: [ ] 
+2. Aby zaznaczyć zadanie jako wykonane wstawiamy do znaku "x"
 np. 
 - [ ] Wstawić pranie 
-- [ ] Umyć naczynia
+- [x] Umyć naczynia
 - [ ] Odkurzyć dom
 
 ## Tabele
