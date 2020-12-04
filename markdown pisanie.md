@@ -68,6 +68,13 @@ np.
 6. Złóż 
 7. Wciśnij przycisk włączenia
 
+# Lista zadań
+1. Do tworzenia list zadań używamy znaku: [ ] 
+np. 
+- [ ] Wstawić pranie 
+- [ ] Umyć naczynia
+- [ ] Odkurzyć dom
+
 ## Tabele
 1. Do tworzenia tabeli używamy 3 znaków.
 2. Pierwszy znak jest od kolumn ( | )
