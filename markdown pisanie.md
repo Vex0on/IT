@@ -3,6 +3,7 @@
 ## Formatowanie tekstu
 1. Przechylenie/Italic - używamy podkreślenia (_)  np _to_
 2. Pogrubienie/Bold - używamy gwiazdek (**) np. **to**
+3. Skreślenie/Strikeout - używamy tyldy (~~) np. ~~to~~  
 
 ## Headery czyli nagłówki  
 1. Aby zrobić nagłówek/header używamy hashtaga (#)  
@@ -40,7 +41,9 @@ Lub przejdźmy do [Mojego Steama]!
 * Trzecim z nich jest nawias () - tu wklejamy link do zdj
 np.
 
-![EvoPanda](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT43jMxUjjInOzf0L59YyTT5hmCjwt02EuudA&usqp=CAU)
+![Custubylo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT43jMxUjjInOzf0L59YyTT5hmCjwt02EuudA&usqp=CAU)
+
+##Blockquote
 
 
 
