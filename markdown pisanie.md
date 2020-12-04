@@ -7,10 +7,10 @@
 ## Headery czyli nagłówki  
 1. Aby zrobić nagłówek/header używamy hashtaga (#) np.  
 2. Nagłówki można ustawić według kolejności zmieniając ilość kratek  
-# 1 header - # 1 header
-## 2 header - ## 2 header 
-### 3 header - ### 3 header
-#### 4 header - ####4 header
+# 1 header
+## 2 header
+### 3 header
+#### 4 header
 
 ## Linki
 1. Aby stworzyć hiperłączę na danej części tekstu musimy użyć 2 znaków.
@@ -30,9 +30,5 @@ Lub przejdźmy do [Mojego Steama]!
 
 [Mojego Twitcha]: https://www.twitch.tv/vex0on  
 [Mojego Steama]: https://steamcommunity.com/id/Vex0on/  
-
-[Tutaj jest napisane Mojego Twitcha]: atutajwklejonylinkdoTwitcha
-[Tutaj jest napisane Mojego Steama]: atutajwklejonylinkdoSteama
-
 
 
