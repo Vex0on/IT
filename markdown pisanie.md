@@ -68,8 +68,8 @@ np.
 
 ## Sub-listy
 * coś
- *sub-lista czegoś
- *2 wers sub-listy
+ * sub-lista czegoś
+ * 2 wers sub-listy
 * inne
  * inna sub-lista
  * 2 wers innej sub-listy
