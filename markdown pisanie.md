@@ -94,4 +94,4 @@ np.
 ## Użwyanie emoji
 1. Do używania emotek używamy (:EMOJICODE:)  
 np.
-Łapka w górę :+1:
+Łapka w górę - :+1:
