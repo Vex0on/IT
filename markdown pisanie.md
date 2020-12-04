@@ -72,8 +72,9 @@ np.
 3. Drugi znak jest od wiersza tabeli (-)
 4. Trzeci znak jest od ułożenia tekstu w tabeli ( : ). 
 - Jeśli po obu stronach jest dwukropek to tekst jest wyśrodkowany
-- Jeśli dwukropek jest po jednej stronie to wtedy tekst będzie przy tej stronie tabeli
-np.
+- Jeśli dwukropek jest po jednej stronie to wtedy tekst będzie przy tej stronie tabeli  
+np.  
+
 | Tabela        | Jest          | Kwota |
 | ------------- |:-------------:| -----:|
 | kolumna 3 jest| right-aligned | $1600 |
