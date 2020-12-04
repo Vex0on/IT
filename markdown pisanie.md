@@ -54,7 +54,7 @@ np.
 
 ## Listy
 1. Są 2 typy list, ordered oraz unordered
-2. Listę unordered tworzymy używając gwiazdki (*)
+2. Listę unordered tworzymy używając znaków: (*) ( + ) ( - )
 np. (Lista zakupów)
 * mleko
 * mąka
