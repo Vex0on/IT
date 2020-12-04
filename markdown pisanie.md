@@ -23,9 +23,11 @@ np. [Mój Fanpage](https://www.facebook.com/JacekVexonSosnowski)
 *Następnie wywołujemy link przez wpisanie po []: linkdostrony  
 np.  
 Przejdźmy do [Mojego Twitcha]!  
+
 Lub przejdźmy do [Mojego Steama]!  
-[Mojego Twitcha]: https://www.twitch.tv/vex0on
-[Mojego Steama]: https://steamcommunity.com/id/Vex0on/
+
+[Mojego Twitcha]: https://www.twitch.tv/vex0on  
+[Mojego Steama]: https://steamcommunity.com/id/Vex0on/  
 
 
 
