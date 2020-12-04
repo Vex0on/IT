@@ -90,3 +90,8 @@ np.
 | kolumna 3 jest| wyr. do prawej| $1600 |
 | kolumna 2 jest| wyśrodkowana  |   $12 |
 | a tu nic nic  | nic nic       |    $1 |
+
+## Użwyanie emoji
+1. Do używania emotek używamy (:EMOJICODE:)  
+np.
+Łapka w górę :+1:
