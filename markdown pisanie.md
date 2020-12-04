@@ -5,8 +5,10 @@
 2. Pogrubienie/Bold - używamy gwiazdek (**) np. **to**
 
 ## Headery czyli nagłówki  
-1. Aby zrobić nagłówek/header używamy hashtaga (#) np.  
+1. Aby zrobić nagłówek/header używamy hashtaga (#)  
 2. Nagłówki można ustawić według kolejności zmieniając ilość kratek  
+np.
+
 # 1 header
 ## 2 header
 ### 3 header
