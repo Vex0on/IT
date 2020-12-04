@@ -38,6 +38,6 @@ Lub przejdźmy do [Mojego Steama]!
 * Trzecim z nich jest nawias ()  
 np.
 
-![EvoPanda](https://drive.google.com/file/d/1z1gzwUbbt8iuXJEjzdGYwSnrwHDAKm42/view?usp=sharing)
+![EvoPanda](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT43jMxUjjInOzf0L59YyTT5hmCjwt02EuudA&usqp=CAU)
 
 
