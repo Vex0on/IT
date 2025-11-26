@@ -1,8 +1,0 @@
-A niech w pliku beda polecenia:
-
-1. Zdefiniuj  klasę Osoba,  która  implementuje  interfejs Cloneable oraz  generyczny  interfejs Comparable.
-W  klasie  tej  zadeklaruj  prywatne  pola nazwisko typu String oraz dataUrodzenia typu LocalDate.
-Klasę Osoba umieść w pakiecie o nazwie pl.imiajd.nazwisko, gdzie nazwisko to Twoje nazwisko bez polskich liter.
-
-3. Napisz program, który czyta kolejne linie z pliku podanego jako argument wywołania programu i umieszcza 
-je w kolekcji typuArrayList<String>.  Następnie sortuje tę kolekcją po czym wypisuje ją na ekran.
